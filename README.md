@@ -1,13 +1,13 @@
-# Codeforces Stat Visualization
+# Codeforces Stats Visualization
 
-<a href="https://github.com/sudiptob2/cf-stats">
-<img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
+<a href="https://github.com/kzamanbd/cf-stats">
+<img src="https://raw.githubusercontent.com/kzamanbd/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/kzamanbd/cf-stats/main/output/light_card.svg" />
 </a>
 <br/>
 <a href="https://github.com/sudiptob2/cf-stats">
-<img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg" />
-<img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" />
+<img src="https://raw.githubusercontent.com/kzamanbd/cf-stats/main/output/max_rating.svg" />
+<img src="https://raw.githubusercontent.com/kzamanbd/cf-stats/main/output/rating.svg" />
 </a>
 
 # Installation
@@ -18,7 +18,7 @@
 
 1. Star this repository :pray:
 2. Create a copy of this repository by clicking
-   [here](https://github.com/sudiptob2/cf-stats/generate). Note: this is
+   [here](https://github.com/kzamanbd/cf-stats/generate). Note: This is
    **not** the same as forking a copy because it copies everything fresh,
    without the huge commit history.
 3. Goto [config/.env.template](config/.env.template) and put your codeforces handle in the `CF_HANDLE` key.
@@ -37,8 +37,8 @@
    ![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg)
    ```
    ```md
-   ![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
-   ![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
+   ![](https://raw.githubusercontent.com/kzamanbd/cf-stats/main/output/max_rating.svg)
+   ![](https://raw.githubusercontent.com/kzamanbd/cf-stats/main/output/rating.svg)
    ```
 
 # Contribution guideline
